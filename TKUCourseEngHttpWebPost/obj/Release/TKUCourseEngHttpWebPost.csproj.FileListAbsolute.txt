@@ -1,0 +1,5 @@
+C:\Users\400400817\Desktop\TKUCourseEngHttpWebPost\TKUCourseEngHttpWebPost\bin\Release\TKUCourseEngHttpWebPost.exe
+C:\Users\400400817\Desktop\TKUCourseEngHttpWebPost\TKUCourseEngHttpWebPost\bin\Release\TKUCourseEngHttpWebPost.pdb
+C:\Users\400400817\Desktop\TKUCourseEngHttpWebPost\TKUCourseEngHttpWebPost\obj\Release\TKUCourseEngHttpWebPost.exe
+C:\Users\400400817\Desktop\TKUCourseEngHttpWebPost\TKUCourseEngHttpWebPost\obj\Release\TKUCourseEngHttpWebPost.pdb
+C:\Users\400400817\Desktop\TKUCourseEngHttpWebPost\TKUCourseEngHttpWebPost\obj\Release\TKUCourseEngHttpWebPost.csprojResolveAssemblyReference.cache

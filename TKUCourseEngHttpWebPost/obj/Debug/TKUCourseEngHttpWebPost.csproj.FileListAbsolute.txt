@@ -1,0 +1,10 @@
+c:\users\administrator\documents\visual studio 2013\Projects\TKUCourseEngHttpWebPost\TKUCourseEngHttpWebPost\bin\Debug\TKUCourseEngHttpWebPost.exe
+c:\users\administrator\documents\visual studio 2013\Projects\TKUCourseEngHttpWebPost\TKUCourseEngHttpWebPost\bin\Debug\TKUCourseEngHttpWebPost.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\TKUCourseEngHttpWebPost\TKUCourseEngHttpWebPost\obj\Debug\TKUCourseEngHttpWebPost.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\TKUCourseEngHttpWebPost\TKUCourseEngHttpWebPost\obj\Debug\TKUCourseEngHttpWebPost.exe
+c:\users\administrator\documents\visual studio 2013\Projects\TKUCourseEngHttpWebPost\TKUCourseEngHttpWebPost\obj\Debug\TKUCourseEngHttpWebPost.pdb
+C:\Users\400400817\Desktop\TKUCourseEngHttpWebPost\TKUCourseEngHttpWebPost\obj\Debug\TKUCourseEngHttpWebPost.exe
+C:\Users\400400817\Desktop\TKUCourseEngHttpWebPost\TKUCourseEngHttpWebPost\obj\Debug\TKUCourseEngHttpWebPost.pdb
+C:\Users\400400817\Desktop\TKUCourseEngHttpWebPost\TKUCourseEngHttpWebPost\bin\Debug\TKUCourseEngHttpWebPost.exe
+C:\Users\400400817\Desktop\TKUCourseEngHttpWebPost\TKUCourseEngHttpWebPost\bin\Debug\TKUCourseEngHttpWebPost.pdb
+C:\Users\400400817\Desktop\TKUCourseEngHttpWebPost\TKUCourseEngHttpWebPost\obj\Debug\TKUCourseEngHttpWebPost.csprojResolveAssemblyReference.cache
